@@ -63,3 +63,4 @@ Because this is a pure static website, you can host it anywhere for free! You do
 3. Your site is live! There's no build command necessary. It serves `index.html` directly from the root.
 
 *Enjoy your beautiful artisan catalogue!*
+
