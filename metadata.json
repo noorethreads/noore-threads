@@ -1,0 +1,8 @@
+{
+  "name": "Nooré Threads",
+  "description": "A contemporary artisan luxury crochet catalogue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
