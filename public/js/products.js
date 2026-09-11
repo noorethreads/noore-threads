@@ -30,7 +30,8 @@ const products = [
         categories: ["Flowers"],
         images: [
             "/images/products/eternity-rose-bouquet/01.jpg",
-            "/images/products/eternity-rose-bouquet/02.jpg"
+            "/images/products/eternity-rose-bouquet/02.jpg",
+            "/images/products/eternity-rose-bouquet/03.jpg"
         ],
         shortDescription: "A delicate handmade crochet rose bouquet that lasts forever.",
         description: "Carefully crafted petal by petal, this eternal rose bouquet brings a touch of romantic handmade luxury to any space. Each stem is wired for flexible arranging. Perfect for gifting or elegant home styling.",
