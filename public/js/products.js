@@ -85,7 +85,7 @@ const products = [
         instagramMessage: "Hi! I am interested in the Minimalist Phone Pouch."
     },
     {
-    id: "sunflower-meadow"
+    id: "sunflower-meadow",
     name: "Sunflower Meadow Bouquet",
     categories: ["Flowers", "Bouquets"],
     images: ["/images/products/sunflower-meadow/01.jpg"
