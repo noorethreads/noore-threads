@@ -88,7 +88,7 @@ const products = [
     id: "sunflower-meadow",
     name: "Sunflower Meadow Bouquet",
     categories: ["Flowers", "Bouquets"],
-    images: ["/images/products/sunflower-meadow/01.jpg"
+    images: ["/images/products/sunflower-meadow/01.jpg",
             "/images/products/sunflower-meadow/02.jpg"],
     shortDescription: "A handcrafted crochet bouquet of sunflower, daisy, and forget-me-nots wrapped for gifting.",
     description: "A everlasting bouquet that never wilts. This handcrafted arrangement features a statement sunflower with rich espresso centre, a cheerful white-and-yellow daisy, and a spray of delicate blue forget-me-nots, all nestled among lush crochet leaves. Wrapped in classic paper with a satin ribbon and finished with a decorative pink bow, it makes a thoughtful gift for birthdays, anniversaries, or anyone who deserves a bouquet that lasts forever.",
