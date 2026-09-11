@@ -84,6 +84,24 @@ const products = [
         sortOrder: 3,
         instagramMessage: "Hi! I am interested in the Minimalist Phone Pouch."
     },
+    id: "sunflower-meadow"
+    name: "Sunflower Meadow Bouquet",
+    categories: ["Flowers", "Bouquets"],
+    images: ["/images/products/sunflower-meadow/01.jpg"
+            "/images/products/sunflower-meadow/02.jpg"],
+    shortDescription: "A handcrafted crochet bouquet of sunflower, daisy, and forget-me-nots wrapped for gifting.",
+    description: "A everlasting bouquet that never wilts. This handcrafted arrangement features a statement sunflower with rich espresso centre, a cheerful white-and-yellow daisy, and a spray of delicate blue forget-me-nots, all nestled among lush crochet leaves. Wrapped in classic paper with a satin ribbon and finished with a decorative pink bow, it makes a thoughtful gift for birthdays, anniversaries, or anyone who deserves a bouquet that lasts forever.",
+    price: "",
+    colors: ["Mustard Yellow & Espresso", "Sky Blue", "Ivory & Gold", "Forest Green"],
+    dimensions: "Approx. 35cm length (bouquet), 12cm sunflower diameter",
+    material: "Mercerised cotton, wire stems, satin wrap and ribbon",
+    care: "Dust gently with a soft, dry cloth. Avoid direct sunlight and moisture.",
+    availability: "In stock",
+    featured: true,
+    newArrival: true,
+    sortOrder: 1,
+    instagramMessage: "Hi! I would like to buy the Sunflower Meadow Bouquet."
+    },
     {
         id: "sunflower-charm",
         name: "Golden Sunflower Charm",
